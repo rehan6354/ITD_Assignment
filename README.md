@@ -19,3 +19,5 @@ Integrate Components: Use the created components within the home page.
 Test Application: Ensure that the application works correctly and the components are displayed as expected.
 
 Submit Assignment: Commit your changes, push them to your forked repository, and create a pull request to the original repository.
+
+this is made by rehan 
